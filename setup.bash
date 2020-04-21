@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by Xavier
 
 exec 2> /tmp/setup.log
 
